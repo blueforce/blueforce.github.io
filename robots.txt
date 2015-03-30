@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /js/
+Disallow: /tracking/
+Disallow: /update/
+Disallow: /zem/
