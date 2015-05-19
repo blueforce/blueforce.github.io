@@ -43,6 +43,11 @@ a:hover {
 	color: #fff;
 }
 
+.lato-font{
+	font-family: 'Lato', Calibri, Arial, sans-serif;
+	
+}
+
 .container { height: 100%; }
 
 .bl-main {
