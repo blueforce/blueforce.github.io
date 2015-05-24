@@ -4,4 +4,4 @@ Disallow: /fonts/
 Disallow: /js/
 Disallow: /tracking/
 Disallow: /update/
-Disallow: /zem/
+Disallow: /support/
